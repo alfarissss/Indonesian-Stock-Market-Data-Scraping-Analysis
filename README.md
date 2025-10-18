@@ -104,9 +104,7 @@ No investment or financial advice is provided or implied.
 
 ### 🧩 Author
 
-**Muhammad Alpim Alfa Rolis**
--📍 **Data Engineer | Data Analyst | Data Scientist**
--💼 **LinkedIn Profile**
-    https://www.linkedin.com/in/muhammadalpimalfarolis/
--📧 **Email**
-    alpimar79@gmail.com
+- **Muhammad Alpim Alfa Rolis**
+-📍**Data Engineer | Data Analyst | Data Scientist**
+-💼**LinkedIn Profile:** https://www.linkedin.com/in/muhammadalpimalfarolis/
+-📧 **Email:** alpimar79@gmail.com

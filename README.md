@@ -102,9 +102,9 @@ This project was created solely for educational and portfolio demonstration purp
 All data was publicly available from TradingView.com and collected on October 17, 2025.
 No investment or financial advice is provided or implied.
 
-### 🧩 Author
+## 👤 Author  
+**Muhammad Alpim Alfa Rolis**  
+📍 *Data Engineer | Data Analyst | Data Scientist*  
+💼 [LinkedIn Profile](https://www.linkedin.com/in/muhammadalpimalfarolis/)  
+📧 **Email:** [alpimar79@gmail.com](mailto:alpimar79@gmail.com)
 
-- **Muhammad Alpim Alfa Rolis**
--📍**Data Engineer | Data Analyst | Data Scientist**
--💼**LinkedIn Profile:** https://www.linkedin.com/in/muhammadalpimalfarolis/
--📧 **Email:** alpimar79@gmail.com

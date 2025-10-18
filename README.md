@@ -87,13 +87,13 @@ Most stocks are rated **Neutral**, suggesting cautious sentiment in the Indonesi
 ### 📊 Visualizations  
 Three key visualizations were generated using Matplotlib to support the insights above:
 
-1. **Top 10 Gainers (%)**  
+1. **Top 10 Gainers (%)**
    Displays the top 10 stocks by daily percentage increase.  
 
-2. Top 10 52-Week Highs (Price in IDR)
+3. **Top 10 52-Week Highs (Price in IDR)**
    Highlights the highest stock prices within the past year.
 
-3. Average % Change per Sector
+4. **Average % Change per Sector**
    Summarizes average percentage movement grouped by sector to identify high-performing industries.
 
 ### ⚠️ Disclaimer
